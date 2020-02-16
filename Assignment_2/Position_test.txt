@@ -1,0 +1,12 @@
+Begin at character: 1 in line: 1
+Begin at character: 37 in line: 1
+Begin at character: 1 in line: 2
+Begin at character: 2 in line: 4
+Begin at character: 19 in line: 4
+Begin at character: 30 in line: 4
+Begin at character: 43 in line: 4
+Begin at character: 1 in line: 6
+Begin at character: 6 in line: 6
+Begin at character: 16 in line: 6
+Begin at character: 25 in line: 6
+Begin at character: 10 in line: 8

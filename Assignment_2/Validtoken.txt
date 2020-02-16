@@ -1,0 +1,63 @@
+bool
+int
+void
+true
+false
+struct
+cin
+cout
+if
+else
+while
+return
+abc
+_abc
+Abc
+ab12c
+_12bd
+A32323k
+46464
+4564
+2
+9464615
+2147483647
+""
+"abc"
+"this is a string 12"
+"Here is the \n"
+"Here is the \t"
+"Here is the \'"
+"Here is the \""
+"Here is the \?"
+"Here is the \\"
+{
+}
+(
+)
+;
+,
+.
+<<
+>>
+++
+--
++
+-
+*
+/
+!
+&&
+||
+==
+!=
+<
+>
+<=
+>=
+=
+Here
+are
+some
+tab
+and
+whitespase
